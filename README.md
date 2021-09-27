@@ -23,9 +23,9 @@ When an level is selected it will look like this:
 | 1 |
 - - -
 When it's not selected it will look like this:
-# # #
-# 1 #
-# # #
+\# \# \#
+\# 1 \#
+\# \# \#
 And if it's looked it will look like this:
 # # #
 # # #
