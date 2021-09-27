@@ -19,10 +19,13 @@ This indicate that just the first og five levels are avalible for you to play.
 You unlock levels by completing the level before.
 Use "a" and "d" to change between the levels you want to play.
 When an level is selected it will look like this:
-"- - -"
-"| 1 |"
-"- - -"
+
+"- - -\n"
+"| 1 |\n"
+"- - -\n"
+
 When it's not selected it will look like this:
+
 "# # #"
 "# 1 #"
 "# # #"
