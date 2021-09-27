@@ -19,17 +19,17 @@ This indicate that just the first og five levels are avalible for you to play.
 You unlock levels by completing the level before.
 Use "a" and "d" to change between the levels you want to play.
 When an level is selected it will look like this:
-- - -
-| 1 |
-- - -
+"- - -"
+"| 1 |"
+"- - -"
 When it's not selected it will look like this:
-\# \# \#
-\# 1 \#
-\# \# \#
+"# # #"
+"# 1 #"
+"# # #"
 And if it's looked it will look like this:
-# # #
-# # #
-# # #
+"# # #"
+"# # #"
+"# # #"
 To play a selected level press "s"
 To exit to windows press "q"
 
