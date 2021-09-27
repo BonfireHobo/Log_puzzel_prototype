@@ -1,6 +1,8 @@
 # Log_puzzel_prototype
 Prototype for a python terminal game
 
+PLEASE READ THIS IN RAW!!!!!!
+
 This is just a prototype of a python terminal game I wanted to make to test my python skills after a long time away from programming.
 The game has a lot of bad practice in it but it was just to check if i could solve the problems of making the game work and see if the concept was an good.
 If people like the concept and playing the prototype i might work some more on it and try to make it into a real game with better code.
